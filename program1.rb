@@ -4,4 +4,3 @@
 #The ? is Ruby code convention for naming boolean methods
 number = 8
 puts number if number.even?
-puts
